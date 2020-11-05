@@ -1,0 +1,335 @@
+.u-section-1 {
+  background-image: linear-gradient(#f1c50e, #2cccc4);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 576px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 30px 0 0;
+}
+
+.u-section-1 .u-list-1 {
+  margin-top: 12px;
+  margin-bottom: 0;
+  min-height: 375px;
+  grid-template-columns: calc(33.3333% - 7px) calc(33.3333% - 7px) calc(33.3333% - 7px);
+  grid-template-rows: auto;
+  grid-gap: 10px 10px;
+  margin-right: 0;
+}
+
+.u-section-1 .u-image-1 {
+  background-image: url("images/Emotes-thumbnailpng.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-2 {
+  background-image: url("images/Enchants-thumbnailpng.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-3 {
+  background-image: url("images/Entities-thumbnailpng.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 12px 0 0 766px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: -39px 822px 0 55px;
+}
+
+.u-section-1 .u-text-4 {
+  width: 374px;
+  margin: -39px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 4px auto 0 87px;
+  padding: 10px 36px 10px 34px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: -45px auto 0;
+  padding: 10px 36px 10px 34px;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: -45px 87px 20px auto;
+  padding: 10px 36px 10px 34px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 510px;
+  }
+
+  .u-section-1 .u-list-1 {
+    min-height: 309px;
+    grid-template-columns: repeat(3, calc(33.333333333333336% - 7px));
+    height: auto;
+    margin-right: initial;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 566px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 677px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 911px;
+  }
+
+  .u-section-1 .u-list-1 {
+    min-height: 710px;
+    grid-template-columns: repeat(2, calc(50% - 5.25px));
+    margin-right: initial;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 346px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 457px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-list-1 {
+    grid-template-columns: 100%;
+    margin-right: initial;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 166px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 277px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-2 {
+    margin-top: -92px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 78px;
+    margin-right: 77px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 340px;
+  }
+}.u-section-2 {
+  background-image: linear-gradient(#2cccc4, #f1c50e);
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 664px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 1px auto 0 0;
+}
+
+.u-section-2 .u-list-1 {
+  margin-top: 10px;
+  margin-bottom: 0;
+  min-height: 375px;
+  grid-template-columns: calc(33.3333% - 7px) calc(33.3333% - 7px) calc(33.3333% - 7px);
+  grid-template-rows: auto;
+  grid-gap: 10px 10px;
+  margin-left: 0;
+}
+
+.u-section-2 .u-image-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/thumbnail-parrotpanel.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/bedrock.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/bedrock.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 10px auto 0 39px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: -39px auto 0;
+}
+
+.u-section-2 .u-text-4 {
+  margin: -39px 20px 0 auto;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 10px auto 0 99px;
+  padding: 10px 36px 10px 34px;
+}
+
+.u-section-2 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: -45px auto 0;
+  padding: 10px 36px 10px 34px;
+}
+
+.u-section-2 .u-btn-3 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: -45px 88px 60px auto;
+  padding: 10px 36px 10px 34px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 598px;
+  }
+
+  .u-section-2 .u-list-1 {
+    min-height: 309px;
+    grid-template-columns: repeat(3, calc(33.333333333333336% - 7px));
+    height: auto;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 32px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 16px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 999px;
+  }
+
+  .u-section-2 .u-list-1 {
+    min-height: 710px;
+    grid-template-columns: repeat(2, calc(50% - 5.25px));
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 25px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 12px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-list-1 {
+    grid-template-columns: 100%;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 19px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 9px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-2 {
+    margin-left: 12px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 6px;
+  }
+}
