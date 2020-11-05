@@ -31175,11 +31175,11 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 116px;
+  min-height: 129px;
 }
 
 .u-header .u-menu-1 {
-  margin: 40px 0 0 auto;
+  margin: 88px 15px 0 auto;
 }
 
 .u-header .u-nav-1 {
@@ -31193,22 +31193,71 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-text-1 {
   font-size: 4.5rem;
-  margin: -57px auto 19px 0;
+  margin: -94px 379px 0 48px;
+}
+
+.u-header .u-image-1 {
+  width: 81px;
+  height: 81px;
+  margin: -85px auto 24px 15px;
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     width: auto;
+    margin-top: 58px;
+    margin-right: 100px;
   }
 
   .u-header .u-text-1 {
-    margin-top: -57px;
+    width: auto;
+    margin-top: -83px;
+    margin-right: 100px;
+    margin-left: 164px;
+  }
+
+  .u-header .u-image-1 {
+    margin-bottom: 53px;
   }
 }
+@media (max-width: 991px) {
+  .u-header .u-menu-1 {
+    margin-top: 39px;
+    margin-right: 210px;
+  }
 
-
-@media (max-width: 575px) {
   .u-header .u-text-1 {
-    font-size: 2.25rem;
+    font-size: 3rem;
+    margin-top: -52px;
+    margin-right: 386px;
+    margin-left: 268px;
+  }
+
+  .u-header .u-image-1 {
+    margin-bottom: 24px;
+  }
+}
+@media (max-width: 767px) {
+  .u-header .u-menu-1 {
+    margin-top: 45px;
+    margin-right: 300px;
+  }
+
+  .u-header .u-text-1 {
+    margin-right: 264px;
+    margin-left: 336px;
+  }
+}
+@media (max-width: 575px) {
+  .u-header .u-menu-1 {
+    margin-top: 88px;
+    margin-right: 400px;
+  }
+
+  .u-header .u-text-1 {
+    font-size: 1.875rem;
+    margin-top: -94px;
+    margin-right: 364px;
+    margin-left: 436px;
   }
 }
 .u-footer {
@@ -31217,11 +31266,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-sheet-1 {
   min-height: 44px;
-}
-
-.u-footer .u-text-1 {
-  width: 417px;
-  margin: 0 auto;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
@@ -31241,10 +31285,6 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
     min-height: 36px;
-  }
-
-  .u-footer .u-text-1 {
-    width: 340px;
   }
 }
 
